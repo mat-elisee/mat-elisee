@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mat
+- 👀 I’m a graduate software engineer
+- 🌱 I’m currently learning by myself :)
