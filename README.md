@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mat
-- 👀 I’m a graduate software engineer
-- 🌱 I’m currently learning by myself :)
+- 👀 I’m a senior software engineer
+- 🌱 I’m currently researching AI by myself
